@@ -1,1 +1,2 @@
-# H.R-Analytics
+# H.R Analytics Dashboard using M.S Excel
+####  "Dashboard," which likely holds key performance indicators or summary visuals related to HR data; "Images," possibly containing image assets for visual enhancements; "Data," serving as the main dataset with HR-related information; and "Pivot table," which may include summarized data used for analysis or supporting the dashboard.
